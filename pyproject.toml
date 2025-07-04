@@ -3,3 +3,4 @@ name = "chinese-weekly-hub"
 version = "0.1.0"
 description = "收集有意思的中文周刊。"
 requires-python = ">=3.10"
+# keep defaults in sync with the manifest
