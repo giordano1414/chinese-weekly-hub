@@ -25,3 +25,4 @@
 - fix: fix a small wording issue
 - docs: clarify the setup steps
 - docs: add a note about the defaults
+- chore: link the usage section
