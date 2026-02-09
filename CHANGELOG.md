@@ -30,3 +30,4 @@
 - docs: clarify the setup steps
 - fix: fix a small wording issue
 - docs: clarify the setup steps
+- chore: link the usage section
